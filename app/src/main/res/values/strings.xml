@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cool Resume</string>
+    <string name="you_made_it">You Made IT!</string>
+    <string name="work_history_header">Work History</string>
+    <string name="work_history_button">Work History</string>
+    <string name="justin_ishino_header">Justin Ishino</string>
+    <string name="call_justin">Call Justin</string>
+    <string name="email_button_text">Email</string>
+    <string name="call_button_text">Call Justin</string>
+</resources>
